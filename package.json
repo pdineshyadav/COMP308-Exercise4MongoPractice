@@ -1,5 +1,5 @@
 {
-  "name": "comp308-lesson4",
+  "name": "comp308-exercise4mongopractice",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pdineshyadav/COMP308-Lesson4.git"
+    "url": "git+https://github.com/pdineshyadav/COMP308-Exercise4MongoPractice.git"
   },
   "bugs": {
-    "url": "https://github.com/pdineshyadav/COMP308-Lesson4/issues"
+    "url": "https://github.com/pdineshyadav/COMP308-Exercise4MongoPractice/issues"
   },
-  "homepage": "https://github.com/pdineshyadav/COMP308-Lesson4#readme"
+  "homepage": "https://github.com/pdineshyadav/COMP308-Exercise4MongoPractice#readme"
 }
